@@ -1,0 +1,462 @@
+[
+  {
+    "id": 9249,
+    "title": "Play Me Something",
+    "tags": [
+      "film"
+    ],
+    "dates": [
+      "2017-02-19T19:00:00+00:00"
+    ],
+    "description": "An enigmatic Stranger (the late John Berger) enchants a group of bored passengers – amongst them ..."
+  },
+  {
+    "id": 9271,
+    "title": "Embrace of the Serpent",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-02-20T20:00:00+00:00"
+    ],
+    "description": "Journey to the visionary heart of the jungle in this stunning exploration of shamanic consciousness. A ..."
+  },
+  {
+    "id": 9069,
+    "title": "The Castle Builder",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-02-21T20:00:00+00:00",
+      "2017-02-22T20:00:00+00:00",
+      "2017-02-23T20:00:00+00:00",
+      "2017-02-24T20:00:00+00:00",
+      "2017-02-25T20:00:00+00:00"
+    ],
+    "description": "Presented by Tobacco Factory Theatres BEYOND, Kid Carpet and Vic Llewellyn take you on a musical, ..."
+  },
+  {
+    "id": 9159,
+    "title": "Jackie",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-02-26T19:00:00+00:00",
+      "2017-02-27T20:00:00+00:00"
+    ],
+    "description": "Provocative Chilean director Pablo Larraín (Tony Manero, No) depicts a searing and intimate portrait of one ..."
+  },
+  {
+    "id": 9228,
+    "title": "Prevenge",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-02-28T20:00:00+00:00",
+      "2017-03-01T20:00:00+00:00",
+      "2017-03-02T20:00:00+00:00"
+    ],
+    "description": "A pitch black, wryly British comedy from the mind of Alice Lowe, Prevenge follows Ruth, a ..."
+  },
+  {
+    "id": 9236,
+    "title": "Prevenge",
+    "tags": [
+      "babycinema",
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-01T11:00:00+00:00"
+    ],
+    "description": "The Cube Cinema is delighted to invite you to our Baby Cinema Screenings. The watching-with-baby screenings ..."
+  },
+  {
+    "id": 9240,
+    "title": "Spectres present: Condition in full (AV Show) + John Bence",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-03-04T20:00:00+00:00"
+    ],
+    "description": "Spectres will be transforming the theatre into an intense AV womb of noise and light for ..."
+  },
+  {
+    "id": 9160,
+    "title": "Toni Erdmann",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-05T16:00:00+00:00",
+      "2017-03-06T20:00:00+00:00",
+      "2017-03-07T20:00:00+00:00"
+    ],
+    "description": "Maren Ade's astonishing Toni Erdmann is pure cinematic joy. A film that makes you think deeply ..."
+  },
+  {
+    "id": 9247,
+    "title": "The Fits",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-05T19:30:00+00:00",
+      "2017-03-06T18:15:00+00:00"
+    ],
+    "description": "THE FITS is a psychological portrait of 11-year-old Toni—a tomboy assimilating to a tight-knit dance team ..."
+  },
+  {
+    "id": 9261,
+    "title": "Toni Erdmann",
+    "tags": [
+      "babycinema",
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-08T11:00:00+00:00"
+    ],
+    "description": "The Cube Cinema is delighted to invite you to our Baby Cinema Screenings. The watching-with-baby screenings ..."
+  },
+  {
+    "id": 9273,
+    "title": "A Woman Under the Influence",
+    "tags": [
+      "35mm",
+      "film"
+    ],
+    "dates": [
+      "2017-03-08T20:00:00+00:00"
+    ],
+    "description": "Today we celebrate International Women’s Day by screening an amazing classic, featuring an astounding central performance ..."
+  },
+  {
+    "id": 9134,
+    "title": "Taupe + Michelson Morley + The Brackish",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-03-09T20:00:00+00:00"
+    ],
+    "description": "Three fearless experimental combos dancing on the knife edge between jazz, punk, rhythm and chaos. Taupe ..."
+  },
+  {
+    "id": 9278,
+    "title": "THE FIRE (IL FUOCO)",
+    "tags": [
+      "35mm",
+      "film"
+    ],
+    "dates": [
+      "2017-03-10T20:00:00+00:00"
+    ],
+    "description": "A chance encounter between a poet and an artist sparks an incendiary, forbidden romance. The promise ..."
+  },
+  {
+    "id": 9266,
+    "title": "Taman Shud",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-03-11T20:00:00+00:00"
+    ],
+    "description": "Londoners Taman Shud return to Bristol to deliver their dark shamanistic take on psychedelic rock. Chanting ..."
+  },
+  {
+    "id": 9263,
+    "title": "Homo Sapiens",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-12T17:00:00+00:00"
+    ],
+    "description": "Homo Sapiens is a film about the finiteness and fragility of human existence and the end ..."
+  },
+  {
+    "id": 9161,
+    "title": "Moonlight",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-12T19:00:00+00:00",
+      "2017-03-13T20:00:00+00:00",
+      "2017-03-14T20:00:00+00:00"
+    ],
+    "description": "A timeless story of human connection and self-discovery, Moonlight chronicles the life of a young black ..."
+  },
+  {
+    "id": 9262,
+    "title": "Moonlight",
+    "tags": [
+      "babycinema",
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-15T11:00:00+00:00"
+    ],
+    "description": "The Cube Cinema is delighted to invite you to our Baby Cinema Screenings. The watching-with-baby screenings ..."
+  },
+  {
+    "id": 9126,
+    "title": "BLUESCREEN",
+    "tags": [
+      "dvd",
+      "film",
+      "short films",
+      "usb"
+    ],
+    "dates": [
+      "2017-03-15T20:00:00+00:00"
+    ],
+    "description": "Welcome to Bluescreen! Bluescreen is The Cube's & Bristol's longest running SHORT FILM night & YOUR ..."
+  },
+  {
+    "id": 9279,
+    "title": "Strike A Pose",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-16T20:00:00+00:00"
+    ],
+    "description": "In 1990, seven young male dancers - 6 gay, 1 straight - joined Madonna on her ..."
+  },
+  {
+    "id": 9238,
+    "title": "The Nightjar Album Launch",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-03-17T20:00:00+00:00"
+    ],
+    "description": "Drawing influence from the surrealist atmospheres of Grouper, the stark and poignant balladry of Diane Cluck ..."
+  },
+  {
+    "id": 9121,
+    "title": "Alison O'Donnell (Mellow Candle) & Head South By Weaving + Trappist Afterland + Constantine",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-03-18T20:00:00+00:00"
+    ],
+    "description": "An amazing stew of acid/pysch folk delights headlined by former Mellow Candle & Flibbertigibbet singer Alison ..."
+  },
+  {
+    "id": 9243,
+    "title": "The Love Witch",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-19T14:00:00+00:00",
+      "2017-03-20T20:00:00+00:00"
+    ],
+    "description": "Cube is all kinds of happy to be screening Anna Biller’s second feature. The Love Witch, ..."
+  },
+  {
+    "id": 9049,
+    "title": "Bristol Science Film Festival - Competition Screening",
+    "tags": [
+      "dvd",
+      "film"
+    ],
+    "dates": [
+      "2017-03-19T19:00:00+00:00"
+    ],
+    "description": "Join us in British Science Week 2017 where we'll be screening shortlisted entries and announcing the ..."
+  },
+  {
+    "id": 9244,
+    "title": "Torrey Pines",
+    "tags": [
+      "film",
+      "music"
+    ],
+    "dates": [
+      "2017-03-21T20:00:00+00:00"
+    ],
+    "description": "A queer-punk stop-motion coming-of-age tale based on director Clyde Petersen's youth, taking place in Southern California ..."
+  },
+  {
+    "id": 9251,
+    "title": "The Love Witch",
+    "tags": [
+      "babycinema",
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-22T11:00:00+00:00"
+    ],
+    "description": "The Cube Cinema is delighted to invite you to our Baby Cinema Screenings. The watching-with-baby screenings ..."
+  },
+  {
+    "id": 9099,
+    "title": "Richard Gadd: Monkey See Monkey Do",
+    "tags": [
+      "comedy"
+    ],
+    "dates": [
+      "2017-03-23T20:00:00+00:00"
+    ],
+    "description": "Richard Gadd brings one of the most memorable, genre-busting performances in years with the undoubted hit ..."
+  },
+  {
+    "id": 9291,
+    "title": "A Silent Voice",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-24T18:30:00+00:00"
+    ],
+    "description": "Shoya Ishida starts bullying the new girl in class, Shoko Nishimiya, because she is deaf. But ..."
+  },
+  {
+    "id": 9275,
+    "title": "Multiple Maniacs",
+    "tags": [
+      "dcp",
+      "film"
+    ],
+    "dates": [
+      "2017-03-24T21:00:00+00:00"
+    ],
+    "description": "John Waters' gloriously grotesque, unavailable-for-decades second feature comes to cinemas at long last, replete with all ..."
+  },
+  {
+    "id": 9189,
+    "title": "OGIVES - XrmXfrme EP Launch",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-03-25T20:00:00+00:00"
+    ],
+    "description": "Tonight we are very pleased to host Ogives EP launch party. AKA Ben Harris (ANTA, Leg), ..."
+  },
+  {
+    "id": 9197,
+    "title": "Found Footage Festival: Vol. 8",
+    "tags": [
+      "comedy",
+      "film",
+      "party"
+    ],
+    "dates": [
+      "2017-03-29T18:30:00+00:00",
+      "2017-03-29T20:45:00+00:00"
+    ],
+    "description": "Joe Pickett and Nick Prueher are back with newly unearthed VHS gems found across the USA. ..."
+  },
+  {
+    "id": 9250,
+    "title": "Black Narcissus",
+    "tags": [
+      "35mm",
+      "film"
+    ],
+    "dates": [
+      "2017-03-30T20:00:00+00:00"
+    ],
+    "description": "A group of nuns led by Sister Clodagh are sent to set up a school in ..."
+  },
+  {
+    "id": 9175,
+    "title": "STREWTH! It's Hellfire Video Club",
+    "tags": [
+      "dvd",
+      "film",
+      "hellfire"
+    ],
+    "dates": [
+      "2017-03-31T20:00:00+00:00"
+    ],
+    "description": "March’s Hellfire heads down under to enjoy some wildly inappropriate humour, set on the election day ..."
+  },
+  {
+    "id": 9283,
+    "title": "Robocop",
+    "tags": [
+      "35mm",
+      "film",
+      "verhoeven"
+    ],
+    "dates": [
+      "2017-04-07T20:00:00+00:00"
+    ],
+    "description": "Peter Weller stars as Detroit cop Alex J Murphy, resurrected by a city in the grip ..."
+  },
+  {
+    "id": 9284,
+    "title": "Comedians Cinema Club: Basic Instinct",
+    "tags": [
+      "comedy",
+      "party",
+      "performance",
+      "verhoeven"
+    ],
+    "dates": [
+      "2017-04-08T20:00:00+00:00"
+    ],
+    "description": "With residencies in London, Brighton and now Los Angeles, we are delighted to welcome our friends ..."
+  },
+  {
+    "id": 9282,
+    "title": "Spetters",
+    "tags": [
+      "dcp",
+      "film",
+      "verhoeven"
+    ],
+    "dates": [
+      "2017-04-13T20:00:00+00:00"
+    ],
+    "description": "Before moving to the USA to make such controversy-generating works as Robocop, Basic Instinct and Showgirls, ..."
+  },
+  {
+    "id": 9298,
+    "title": "Flowers Must Die",
+    "tags": [
+      "music"
+    ],
+    "dates": [
+      "2017-04-28T20:00:00+00:00"
+    ],
+    "description": "Swedish psych rock band return to Bristol with their new album of laidback grooves, improvised jams, ..."
+  },
+  {
+    "id": 9135,
+    "title": "Kieran Hodgson - Maestro",
+    "tags": [
+      "comedy",
+      "music"
+    ],
+    "dates": [
+      "2017-05-26T20:00:00+00:00"
+    ],
+    "description": "In 2003 Kieran Hodgson heard the music of Gustav Mahler and decided to write a symphony. ..."
+  }
+]
